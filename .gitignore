@@ -1,0 +1,6 @@
+# no .iml files
+*.iml
+# no .idea directory
+.idea/
+# no target directory
+target/
